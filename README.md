@@ -5,13 +5,13 @@ the name of the project is humpty because I remebered the humpty dumpty song whe
 one line explanation:
 
 ```
-a JavaScript library for writing your application in MODEL->UPDATE->VIEW architecture.
+a JavaScript lib for writing your application in MODEL->UPDATE->VIEW architecture.
 ```
 
 look at the example written by dumbGPT for reference
 
 ---
 
-## Working on:
+## will work on:
 
 - [ ] adding a diffing algo for dom update
